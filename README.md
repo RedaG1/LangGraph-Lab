@@ -9,7 +9,7 @@ This lab builds agents with **LangGraph**, step by step:
 - a minimal evaluation harness;
 - the capstone, an **Intelligent University Assistant** that combines all of the above.
 
-📓 **Notebook with all outputs and answers:** [`langgraph_lab.ipynb`](langgraph_lab.ipynb) · 📄 **Report:** [`report/report.pdf`](report/report.pdf)
+📓 **Notebook with all outputs and answers:** [`langgraph_lab_Statement.ipynb`](langgraph_lab.ipynb) · 📄 **Report:** [`report/report.pdf`](report/report.pdf)
 
 ## LLM used: a free model on OpenRouter
 
